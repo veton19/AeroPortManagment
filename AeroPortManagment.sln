@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AeroPortManagment", "AeroPortManagment\AeroPortManagment.csproj", "{6FF13B38-71C4-42AA-8ED2-B0E62EC267CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AeroPortManagmentTest", "AeroPortManagmentTest\AeroPortManagmentTest.csproj", "{321703E5-79E9-4B53-AE21-614CB3464D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF13B38-71C4-42AA-8ED2-B0E62EC267CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF13B38-71C4-42AA-8ED2-B0E62EC267CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF13B38-71C4-42AA-8ED2-B0E62EC267CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF13B38-71C4-42AA-8ED2-B0E62EC267CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321703E5-79E9-4B53-AE21-614CB3464D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321703E5-79E9-4B53-AE21-614CB3464D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321703E5-79E9-4B53-AE21-614CB3464D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321703E5-79E9-4B53-AE21-614CB3464D39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D4DD7A4-09E6-4442-8993-161A559B4E60}
+	EndGlobalSection
+EndGlobal
